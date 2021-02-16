@@ -1,12 +1,12 @@
 # Color themes
 
-My personal colour themes from various apps.
+My personal color themes from various apps.
 
 ## Xcode
 
-### Xcodejr Theme
-
-![Xcodejr Theme preview](xcodejr-preview.png)
+| Coldplay Theme | The Weekend Theme |
+| -------------- | ----------------- |
+| ![Coldplay Theme preview](coldplay-theme-preview.png) | ![The Weekend Theme preview](the-weekend-theme-preview.png) |
 
 #### Installation
 
