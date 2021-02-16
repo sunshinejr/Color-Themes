@@ -1,6 +1,6 @@
 # Color themes
 
-My personal color themes from various apps.
+Color themes I use in apps (Xcode & more).
 
 ## Xcode themes
 
