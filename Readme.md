@@ -1,11 +1,15 @@
-# Xcodejr Theme
+# Color themes
 
-My personal theme for Xcode, hope you'll like it as much as I do!
+My personal colour themes from various apps.
+
+## Xcode
+
+### Xcodejr Theme
 
 ![Xcodejr Theme preview](xcodejr-preview.png)
 
-# Installation
+#### Installation
 
 First, if you want the most powerful experience, install [FiraCode](https://github.com/tonsky/FiraCode) font.
 
-Then, copy [Xcodejr.xccolortheme](Xcodejr.xccolortheme) theme to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` directory and restart Xcode. You should have the "Xcodejr" theme in your list of themes in preferences.
+Then, copy _$THEME_.xccolortheme file to `~/Library/Developer/Xcode/UserData/FontAndColorThemes/` directory and restart Xcode. You should have the "_$THEME_" in your list of themes in preferences.
