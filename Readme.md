@@ -2,7 +2,7 @@
 
 My personal color themes from various apps.
 
-## Xcode
+## Xcode themes
 
 | Coldplay Theme | The Weekend Theme |
 | -------------- | ----------------- |
